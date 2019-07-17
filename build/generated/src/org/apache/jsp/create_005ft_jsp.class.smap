@@ -1,0 +1,12 @@
+SMAP
+create_005ft_jsp.java
+JSP
+*S JSP
+*F
++ 0 create_t.jsp
+create_t.jsp
+*L
+1,2:45
+6,20:50
+25,2:70
+*E
