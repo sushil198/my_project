@@ -10,6 +10,7 @@
             out.println("<h3>Subject:"+sub+"</h3>");
             session.setAttribute("s",sub);
             %>
+            
             <form name='f' action='s_test1.jsp'>Select Year:<select name='Option'>
                      <option value='' selected disabled>Select</option>
                      <option >F.E</option>
@@ -19,6 +20,8 @@
                 <input type="submit" value="Start">
             </form>
             
+                
+                
       
             
           
