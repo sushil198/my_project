@@ -16,7 +16,11 @@
        Subject:
     </td>
     <td>
-        <input type="text" name="sub">
+        <select name="sub">
+            <option>Chem</option>
+            <option>M1</option>
+        </select>
+        
     </td>
 </tr>
 

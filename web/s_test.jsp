@@ -11,12 +11,16 @@
             session.setAttribute("s",sub);
             %>
             
-            <form name='f' action='s_test1.jsp'>Select Year:<select name='Option'>
-                     <option value='' selected disabled>Select</option>
+            <form action='s_test1.jsp'>Select Year:
+                    <select name='Option'>
+                    
                      <option >F.E</option>
                      <option >S.E</option>
                      <option >T.E</option>
                      <option >B.E</option></select>
+                
+                
+                <br>
                 <input type="submit" value="Start">
             </form>
             
