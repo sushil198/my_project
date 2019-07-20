@@ -13,7 +13,7 @@
                     
                                 %>
                                 <html>
-                                    <<body>
+                                    <body>
                                         <form action="fe_unit1.jsp">
                                             Enter Question:<input type="textarea" name ="q"><br>
                                             Enter option 1:<input type="text" name="o1"><br>
